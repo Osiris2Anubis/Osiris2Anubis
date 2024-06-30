@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, computer science, data analysis, AI, and gaming.
 - 🌱 I’m currently learning computer science at Full Sail University.
 - 💞️ I’m looking to collaborate on beginner python programs.
-- 📫 How to reach me thru email at caleb.degroat@gmail.com
+- 📫 How to reach me thru email via Github.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love games like Fallout and Witcher series.
 
